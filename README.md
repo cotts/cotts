@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cotts/)](https://www.linkedin.com/in/cotts/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thadeu@cotts.dev)](mailto:thadeu@cotts.dev)
 
-- 🔭 I’m currently working on Feracode
+- 🔭 I’m currently working at Feracode
 - 🌱 I’m currently learning Mobile and Front-end
 - ⚡ Also a maker (Arduino and 3d Print)
 
