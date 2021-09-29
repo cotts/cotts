@@ -7,8 +7,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cotts/)](https://www.linkedin.com/in/cotts/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thadeu@cotts.dev)](mailto:thadeu@cotts.dev)
 
-- 🔭 I’m currently working at Datopian
-- 🌱 I’m currently learning Python and React
+- 🔭 I’m currently working at Jobsity
+<!-- - 🌱 I’m currently learning Python and React -->
 - ⚡ Also a maker (Arduino and 3d Print)
 
 
